@@ -1,0 +1,14 @@
+
+body {
+    background-image: url("../img/tmartillo.jpeg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight:lighter;
+    color: white;
+  } 
+
+h1{
+    display: grid;
+    justify-items: center;
+    font-weight: 900;
+}
